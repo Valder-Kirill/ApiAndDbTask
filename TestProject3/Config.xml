@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <APIValues name="APIValues">
+    <AllСurrencysURL>currencies/</AllСurrencysURL>
+    <BaseURL>https://www.nbrb.by/api/exrates/</BaseURL>
+  </APIValues>
+  <ConnectionString name="ConnectionString">
+    <DataBaseQA>Data Source=(localdb)\MSSQLLocalDB;Initial Catalog=DataBaseQA;Integrated Security=True;Connect Timeout=30;Encrypt=False;TrustServerCertificate=False;ApplicationIntent=ReadWrite;MultiSubnetFailover=False</DataBaseQA>
+  </ConnectionString>
+  <Encodings name="Encodings">
+    <UTF-8>UTF-8</UTF-8>
+    <Windows-1251>Windows-1251</Windows-1251>
+  </Encodings>
+</root>

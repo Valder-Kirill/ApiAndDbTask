@@ -1,0 +1,17 @@
+C:\Users\emely\source\repos\TestProject3\TestProject3\bin\Debug\net48\NUnit3.TestAdapter.dll
+C:\Users\emely\source\repos\TestProject3\TestProject3\bin\Debug\net48\NUnit3.TestAdapter.pdb
+C:\Users\emely\source\repos\TestProject3\TestProject3\bin\Debug\net48\nunit.engine.dll
+C:\Users\emely\source\repos\TestProject3\TestProject3\bin\Debug\net48\nunit.engine.api.dll
+C:\Users\emely\source\repos\TestProject3\TestProject3\bin\Debug\net48\TestProject3.dll
+C:\Users\emely\source\repos\TestProject3\TestProject3\bin\Debug\net48\TestProject3.pdb
+C:\Users\emely\source\repos\TestProject3\TestProject3\bin\Debug\net48\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\emely\source\repos\TestProject3\TestProject3\bin\Debug\net48\nunit.framework.dll
+C:\Users\emely\source\repos\TestProject3\TestProject3\obj\Debug\net48\TestProject3.csproj.AssemblyReference.cache
+C:\Users\emely\source\repos\TestProject3\TestProject3\obj\Debug\net48\TestProject3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emely\source\repos\TestProject3\TestProject3\obj\Debug\net48\TestProject3.AssemblyInfoInputs.cache
+C:\Users\emely\source\repos\TestProject3\TestProject3\obj\Debug\net48\TestProject3.AssemblyInfo.cs
+C:\Users\emely\source\repos\TestProject3\TestProject3\obj\Debug\net48\TestProject3.csproj.CoreCompileInputs.cache
+C:\Users\emely\source\repos\TestProject3\TestProject3\obj\Debug\net48\TestProject3.csproj.CopyComplete
+C:\Users\emely\source\repos\TestProject3\TestProject3\obj\Debug\net48\TestProject3.dll
+C:\Users\emely\source\repos\TestProject3\TestProject3\obj\Debug\net48\TestProject3.pdb
+C:\Users\emely\source\repos\TestProject3\TestProject3\bin\Debug\net48\Newtonsoft.Json.dll
