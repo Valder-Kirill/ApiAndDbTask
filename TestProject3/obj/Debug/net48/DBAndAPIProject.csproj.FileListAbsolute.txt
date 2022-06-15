@@ -15,3 +15,4 @@ C:\Users\emely\source\repos\TestProject3\TestProject3\obj\Debug\net48\DBAndAPIPr
 C:\Users\emely\source\repos\TestProject3\TestProject3\obj\Debug\net48\DBAndAPIProject.dll
 C:\Users\emely\source\repos\TestProject3\TestProject3\obj\Debug\net48\DBAndAPIProject.pdb
 C:\Users\emely\source\repos\TestProject3\TestProject3\bin\Debug\net48\Config.xml
+C:\Users\emely\source\repos\TestProject3\TestProject3\obj\Debug\net48\DBAndAPIProject.csproj.AssemblyReference.cache
